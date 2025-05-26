@@ -1,0 +1,342 @@
+../s21_cat  ../tests/samples/text_1 FAIL
+../s21_cat  ../tests/samples/text_2 SUCCESS
+../s21_cat  ../tests/samples/text_3 FAIL
+../s21_cat  ../tests/samples/text_4 FAIL
+../s21_cat  ../tests/samples/text_5 FAIL
+../s21_cat  ../tests/samples/text_6 FAIL
+../s21_cat  ../tests/samples/text_7 FAIL
+../s21_cat  ../tests/samples/text_8 FAIL
+../s21_cat  ../tests/samples/text_9 FAIL
+../s21_cat -b ../tests/samples/text_1 FAIL
+../s21_cat -b ../tests/samples/text_2 SUCCESS
+../s21_cat -b ../tests/samples/text_3 FAIL
+../s21_cat -b ../tests/samples/text_4 FAIL
+../s21_cat -b ../tests/samples/text_5 FAIL
+../s21_cat -b ../tests/samples/text_6 FAIL
+../s21_cat -b ../tests/samples/text_7 FAIL
+../s21_cat -b ../tests/samples/text_8 FAIL
+../s21_cat -b ../tests/samples/text_9 FAIL
+../s21_cat -e ../tests/samples/text_1 FAIL
+../s21_cat -e ../tests/samples/text_2 SUCCESS
+../s21_cat -e ../tests/samples/text_3 FAIL
+../s21_cat -e ../tests/samples/text_4 FAIL
+../s21_cat -e ../tests/samples/text_5 FAIL
+../s21_cat -e ../tests/samples/text_6 FAIL
+../s21_cat -e ../tests/samples/text_7 FAIL
+../s21_cat -e ../tests/samples/text_8 FAIL
+../s21_cat -e ../tests/samples/text_9 FAIL
+../s21_cat -n ../tests/samples/text_1 FAIL
+../s21_cat -n ../tests/samples/text_2 SUCCESS
+../s21_cat -n ../tests/samples/text_3 FAIL
+../s21_cat -n ../tests/samples/text_4 FAIL
+../s21_cat -n ../tests/samples/text_5 FAIL
+../s21_cat -n ../tests/samples/text_6 FAIL
+../s21_cat -n ../tests/samples/text_7 FAIL
+../s21_cat -n ../tests/samples/text_8 FAIL
+../s21_cat -n ../tests/samples/text_9 FAIL
+../s21_cat -s ../tests/samples/text_1 FAIL
+../s21_cat -s ../tests/samples/text_2 SUCCESS
+../s21_cat -s ../tests/samples/text_3 FAIL
+../s21_cat -s ../tests/samples/text_4 FAIL
+../s21_cat -s ../tests/samples/text_5 FAIL
+../s21_cat -s ../tests/samples/text_6 FAIL
+../s21_cat -s ../tests/samples/text_7 FAIL
+../s21_cat -s ../tests/samples/text_8 FAIL
+../s21_cat -s ../tests/samples/text_9 FAIL
+../s21_cat -t ../tests/samples/text_1 FAIL
+../s21_cat -t ../tests/samples/text_2 SUCCESS
+../s21_cat -t ../tests/samples/text_3 FAIL
+../s21_cat -t ../tests/samples/text_4 FAIL
+../s21_cat -t ../tests/samples/text_5 FAIL
+../s21_cat -t ../tests/samples/text_6 FAIL
+../s21_cat -t ../tests/samples/text_7 FAIL
+../s21_cat -t ../tests/samples/text_8 FAIL
+../s21_cat -t ../tests/samples/text_9 FAIL
+../s21_cat -be ../tests/samples/text_1 FAIL
+../s21_cat -be ../tests/samples/text_2 SUCCESS
+../s21_cat -be ../tests/samples/text_3 FAIL
+../s21_cat -be ../tests/samples/text_4 FAIL
+../s21_cat -be ../tests/samples/text_5 FAIL
+../s21_cat -be ../tests/samples/text_6 FAIL
+../s21_cat -be ../tests/samples/text_7 FAIL
+../s21_cat -be ../tests/samples/text_8 FAIL
+../s21_cat -be ../tests/samples/text_9 FAIL
+../s21_cat -bn ../tests/samples/text_1 FAIL
+../s21_cat -bn ../tests/samples/text_2 SUCCESS
+../s21_cat -bn ../tests/samples/text_3 FAIL
+../s21_cat -bn ../tests/samples/text_4 FAIL
+../s21_cat -bn ../tests/samples/text_5 FAIL
+../s21_cat -bn ../tests/samples/text_6 FAIL
+../s21_cat -bn ../tests/samples/text_7 FAIL
+../s21_cat -bn ../tests/samples/text_8 FAIL
+../s21_cat -bn ../tests/samples/text_9 FAIL
+../s21_cat -bs ../tests/samples/text_1 FAIL
+../s21_cat -bs ../tests/samples/text_2 SUCCESS
+../s21_cat -bs ../tests/samples/text_3 FAIL
+../s21_cat -bs ../tests/samples/text_4 FAIL
+../s21_cat -bs ../tests/samples/text_5 FAIL
+../s21_cat -bs ../tests/samples/text_6 FAIL
+../s21_cat -bs ../tests/samples/text_7 FAIL
+../s21_cat -bs ../tests/samples/text_8 FAIL
+../s21_cat -bs ../tests/samples/text_9 FAIL
+../s21_cat -bt ../tests/samples/text_1 FAIL
+../s21_cat -bt ../tests/samples/text_2 SUCCESS
+../s21_cat -bt ../tests/samples/text_3 FAIL
+../s21_cat -bt ../tests/samples/text_4 FAIL
+../s21_cat -bt ../tests/samples/text_5 FAIL
+../s21_cat -bt ../tests/samples/text_6 FAIL
+../s21_cat -bt ../tests/samples/text_7 FAIL
+../s21_cat -bt ../tests/samples/text_8 FAIL
+../s21_cat -bt ../tests/samples/text_9 FAIL
+../s21_cat -en ../tests/samples/text_1 FAIL
+../s21_cat -en ../tests/samples/text_2 SUCCESS
+../s21_cat -en ../tests/samples/text_3 FAIL
+../s21_cat -en ../tests/samples/text_4 FAIL
+../s21_cat -en ../tests/samples/text_5 FAIL
+../s21_cat -en ../tests/samples/text_6 FAIL
+../s21_cat -en ../tests/samples/text_7 FAIL
+../s21_cat -en ../tests/samples/text_8 FAIL
+../s21_cat -en ../tests/samples/text_9 FAIL
+../s21_cat -es ../tests/samples/text_1 FAIL
+../s21_cat -es ../tests/samples/text_2 SUCCESS
+../s21_cat -es ../tests/samples/text_3 FAIL
+../s21_cat -es ../tests/samples/text_4 FAIL
+../s21_cat -es ../tests/samples/text_5 FAIL
+../s21_cat -es ../tests/samples/text_6 FAIL
+../s21_cat -es ../tests/samples/text_7 FAIL
+../s21_cat -es ../tests/samples/text_8 FAIL
+../s21_cat -es ../tests/samples/text_9 FAIL
+../s21_cat -et ../tests/samples/text_1 FAIL
+../s21_cat -et ../tests/samples/text_2 SUCCESS
+../s21_cat -et ../tests/samples/text_3 FAIL
+../s21_cat -et ../tests/samples/text_4 FAIL
+../s21_cat -et ../tests/samples/text_5 FAIL
+../s21_cat -et ../tests/samples/text_6 FAIL
+../s21_cat -et ../tests/samples/text_7 FAIL
+../s21_cat -et ../tests/samples/text_8 FAIL
+../s21_cat -et ../tests/samples/text_9 FAIL
+../s21_cat -ns ../tests/samples/text_1 FAIL
+../s21_cat -ns ../tests/samples/text_2 SUCCESS
+../s21_cat -ns ../tests/samples/text_3 FAIL
+../s21_cat -ns ../tests/samples/text_4 FAIL
+../s21_cat -ns ../tests/samples/text_5 FAIL
+../s21_cat -ns ../tests/samples/text_6 FAIL
+../s21_cat -ns ../tests/samples/text_7 FAIL
+../s21_cat -ns ../tests/samples/text_8 FAIL
+../s21_cat -ns ../tests/samples/text_9 FAIL
+../s21_cat -nt ../tests/samples/text_1 FAIL
+../s21_cat -nt ../tests/samples/text_2 SUCCESS
+../s21_cat -nt ../tests/samples/text_3 FAIL
+../s21_cat -nt ../tests/samples/text_4 FAIL
+../s21_cat -nt ../tests/samples/text_5 FAIL
+../s21_cat -nt ../tests/samples/text_6 FAIL
+../s21_cat -nt ../tests/samples/text_7 FAIL
+../s21_cat -nt ../tests/samples/text_8 FAIL
+../s21_cat -nt ../tests/samples/text_9 FAIL
+../s21_cat -st ../tests/samples/text_1 FAIL
+../s21_cat -st ../tests/samples/text_2 SUCCESS
+../s21_cat -st ../tests/samples/text_3 FAIL
+../s21_cat -st ../tests/samples/text_4 FAIL
+../s21_cat -st ../tests/samples/text_5 FAIL
+../s21_cat -st ../tests/samples/text_6 FAIL
+../s21_cat -st ../tests/samples/text_7 FAIL
+../s21_cat -st ../tests/samples/text_8 FAIL
+../s21_cat -st ../tests/samples/text_9 FAIL
+../s21_cat -ben ../tests/samples/text_1 FAIL
+../s21_cat -ben ../tests/samples/text_2 SUCCESS
+../s21_cat -ben ../tests/samples/text_3 FAIL
+../s21_cat -ben ../tests/samples/text_4 FAIL
+../s21_cat -ben ../tests/samples/text_5 FAIL
+../s21_cat -ben ../tests/samples/text_6 FAIL
+../s21_cat -ben ../tests/samples/text_7 FAIL
+../s21_cat -ben ../tests/samples/text_8 FAIL
+../s21_cat -ben ../tests/samples/text_9 FAIL
+../s21_cat -bes ../tests/samples/text_1 FAIL
+../s21_cat -bes ../tests/samples/text_2 SUCCESS
+../s21_cat -bes ../tests/samples/text_3 FAIL
+../s21_cat -bes ../tests/samples/text_4 FAIL
+../s21_cat -bes ../tests/samples/text_5 FAIL
+../s21_cat -bes ../tests/samples/text_6 FAIL
+../s21_cat -bes ../tests/samples/text_7 FAIL
+../s21_cat -bes ../tests/samples/text_8 FAIL
+../s21_cat -bes ../tests/samples/text_9 FAIL
+../s21_cat -bet ../tests/samples/text_1 FAIL
+../s21_cat -bet ../tests/samples/text_2 SUCCESS
+../s21_cat -bet ../tests/samples/text_3 FAIL
+../s21_cat -bet ../tests/samples/text_4 FAIL
+../s21_cat -bet ../tests/samples/text_5 FAIL
+../s21_cat -bet ../tests/samples/text_6 FAIL
+../s21_cat -bet ../tests/samples/text_7 FAIL
+../s21_cat -bet ../tests/samples/text_8 FAIL
+../s21_cat -bet ../tests/samples/text_9 FAIL
+../s21_cat -bns ../tests/samples/text_1 FAIL
+../s21_cat -bns ../tests/samples/text_2 SUCCESS
+../s21_cat -bns ../tests/samples/text_3 FAIL
+../s21_cat -bns ../tests/samples/text_4 FAIL
+../s21_cat -bns ../tests/samples/text_5 FAIL
+../s21_cat -bns ../tests/samples/text_6 FAIL
+../s21_cat -bns ../tests/samples/text_7 FAIL
+../s21_cat -bns ../tests/samples/text_8 FAIL
+../s21_cat -bns ../tests/samples/text_9 FAIL
+../s21_cat -bnt ../tests/samples/text_1 FAIL
+../s21_cat -bnt ../tests/samples/text_2 SUCCESS
+../s21_cat -bnt ../tests/samples/text_3 FAIL
+../s21_cat -bnt ../tests/samples/text_4 FAIL
+../s21_cat -bnt ../tests/samples/text_5 FAIL
+../s21_cat -bnt ../tests/samples/text_6 FAIL
+../s21_cat -bnt ../tests/samples/text_7 FAIL
+../s21_cat -bnt ../tests/samples/text_8 FAIL
+../s21_cat -bnt ../tests/samples/text_9 FAIL
+../s21_cat -bst ../tests/samples/text_1 FAIL
+../s21_cat -bst ../tests/samples/text_2 SUCCESS
+../s21_cat -bst ../tests/samples/text_3 FAIL
+../s21_cat -bst ../tests/samples/text_4 FAIL
+../s21_cat -bst ../tests/samples/text_5 FAIL
+../s21_cat -bst ../tests/samples/text_6 FAIL
+../s21_cat -bst ../tests/samples/text_7 FAIL
+../s21_cat -bst ../tests/samples/text_8 FAIL
+../s21_cat -bst ../tests/samples/text_9 FAIL
+../s21_cat -ens ../tests/samples/text_1 FAIL
+../s21_cat -ens ../tests/samples/text_2 SUCCESS
+../s21_cat -ens ../tests/samples/text_3 FAIL
+../s21_cat -ens ../tests/samples/text_4 FAIL
+../s21_cat -ens ../tests/samples/text_5 FAIL
+../s21_cat -ens ../tests/samples/text_6 FAIL
+../s21_cat -ens ../tests/samples/text_7 FAIL
+../s21_cat -ens ../tests/samples/text_8 FAIL
+../s21_cat -ens ../tests/samples/text_9 FAIL
+../s21_cat -ent ../tests/samples/text_1 FAIL
+../s21_cat -ent ../tests/samples/text_2 SUCCESS
+../s21_cat -ent ../tests/samples/text_3 FAIL
+../s21_cat -ent ../tests/samples/text_4 FAIL
+../s21_cat -ent ../tests/samples/text_5 FAIL
+../s21_cat -ent ../tests/samples/text_6 FAIL
+../s21_cat -ent ../tests/samples/text_7 FAIL
+../s21_cat -ent ../tests/samples/text_8 FAIL
+../s21_cat -ent ../tests/samples/text_9 FAIL
+../s21_cat -est ../tests/samples/text_1 FAIL
+../s21_cat -est ../tests/samples/text_2 SUCCESS
+../s21_cat -est ../tests/samples/text_3 FAIL
+../s21_cat -est ../tests/samples/text_4 FAIL
+../s21_cat -est ../tests/samples/text_5 FAIL
+../s21_cat -est ../tests/samples/text_6 FAIL
+../s21_cat -est ../tests/samples/text_7 FAIL
+../s21_cat -est ../tests/samples/text_8 FAIL
+../s21_cat -est ../tests/samples/text_9 FAIL
+../s21_cat -nst ../tests/samples/text_1 FAIL
+../s21_cat -nst ../tests/samples/text_2 SUCCESS
+../s21_cat -nst ../tests/samples/text_3 FAIL
+../s21_cat -nst ../tests/samples/text_4 FAIL
+../s21_cat -nst ../tests/samples/text_5 FAIL
+../s21_cat -nst ../tests/samples/text_6 FAIL
+../s21_cat -nst ../tests/samples/text_7 FAIL
+../s21_cat -nst ../tests/samples/text_8 FAIL
+../s21_cat -nst ../tests/samples/text_9 FAIL
+../s21_cat -enst ../tests/samples/text_1 FAIL
+../s21_cat -enst ../tests/samples/text_2 SUCCESS
+../s21_cat -enst ../tests/samples/text_3 FAIL
+../s21_cat -enst ../tests/samples/text_4 FAIL
+../s21_cat -enst ../tests/samples/text_5 FAIL
+../s21_cat -enst ../tests/samples/text_6 FAIL
+../s21_cat -enst ../tests/samples/text_7 FAIL
+../s21_cat -enst ../tests/samples/text_8 FAIL
+../s21_cat -enst ../tests/samples/text_9 FAIL
+../s21_cat -bnst ../tests/samples/text_1 FAIL
+../s21_cat -bnst ../tests/samples/text_2 SUCCESS
+../s21_cat -bnst ../tests/samples/text_3 FAIL
+../s21_cat -bnst ../tests/samples/text_4 FAIL
+../s21_cat -bnst ../tests/samples/text_5 FAIL
+../s21_cat -bnst ../tests/samples/text_6 FAIL
+../s21_cat -bnst ../tests/samples/text_7 FAIL
+../s21_cat -bnst ../tests/samples/text_8 FAIL
+../s21_cat -bnst ../tests/samples/text_9 FAIL
+../s21_cat -best ../tests/samples/text_1 FAIL
+../s21_cat -best ../tests/samples/text_2 SUCCESS
+../s21_cat -best ../tests/samples/text_3 FAIL
+../s21_cat -best ../tests/samples/text_4 FAIL
+../s21_cat -best ../tests/samples/text_5 FAIL
+../s21_cat -best ../tests/samples/text_6 FAIL
+../s21_cat -best ../tests/samples/text_7 FAIL
+../s21_cat -best ../tests/samples/text_8 FAIL
+../s21_cat -best ../tests/samples/text_9 FAIL
+../s21_cat -bent ../tests/samples/text_1 FAIL
+../s21_cat -bent ../tests/samples/text_2 SUCCESS
+../s21_cat -bent ../tests/samples/text_3 FAIL
+../s21_cat -bent ../tests/samples/text_4 FAIL
+../s21_cat -bent ../tests/samples/text_5 FAIL
+../s21_cat -bent ../tests/samples/text_6 FAIL
+../s21_cat -bent ../tests/samples/text_7 FAIL
+../s21_cat -bent ../tests/samples/text_8 FAIL
+../s21_cat -bent ../tests/samples/text_9 FAIL
+../s21_cat -bens ../tests/samples/text_1 FAIL
+../s21_cat -bens ../tests/samples/text_2 SUCCESS
+../s21_cat -bens ../tests/samples/text_3 FAIL
+../s21_cat -bens ../tests/samples/text_4 FAIL
+../s21_cat -bens ../tests/samples/text_5 FAIL
+../s21_cat -bens ../tests/samples/text_6 FAIL
+../s21_cat -bens ../tests/samples/text_7 FAIL
+../s21_cat -bens ../tests/samples/text_8 FAIL
+../s21_cat -bens ../tests/samples/text_9 FAIL
+../s21_cat -benst ../tests/samples/text_1 FAIL
+../s21_cat -benst ../tests/samples/text_2 SUCCESS
+../s21_cat -benst ../tests/samples/text_3 FAIL
+../s21_cat -benst ../tests/samples/text_4 FAIL
+../s21_cat -benst ../tests/samples/text_5 FAIL
+../s21_cat -benst ../tests/samples/text_6 FAIL
+../s21_cat -benst ../tests/samples/text_7 FAIL
+../s21_cat -benst ../tests/samples/text_8 FAIL
+../s21_cat -benst ../tests/samples/text_9 FAIL
+../s21_cat -e -e ../tests/samples/text_1 FAIL
+../s21_cat -e -e ../tests/samples/text_2 SUCCESS
+../s21_cat -e -e ../tests/samples/text_3 FAIL
+../s21_cat -e -e ../tests/samples/text_4 FAIL
+../s21_cat -e -e ../tests/samples/text_5 FAIL
+../s21_cat -e -e ../tests/samples/text_6 FAIL
+../s21_cat -e -e ../tests/samples/text_7 FAIL
+../s21_cat -e -e ../tests/samples/text_8 FAIL
+../s21_cat -e -e ../tests/samples/text_9 FAIL
+../s21_cat -bn -st ../tests/samples/text_1 FAIL
+../s21_cat -bn -st ../tests/samples/text_2 SUCCESS
+../s21_cat -bn -st ../tests/samples/text_3 FAIL
+../s21_cat -bn -st ../tests/samples/text_4 FAIL
+../s21_cat -bn -st ../tests/samples/text_5 FAIL
+../s21_cat -bn -st ../tests/samples/text_6 FAIL
+../s21_cat -bn -st ../tests/samples/text_7 FAIL
+../s21_cat -bn -st ../tests/samples/text_8 FAIL
+../s21_cat -bn -st ../tests/samples/text_9 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_1 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_2 SUCCESS
+../s21_cat -b -e -n -s -t ../tests/samples/text_3 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_4 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_5 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_6 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_7 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_8 FAIL
+../s21_cat -b -e -n -s -t ../tests/samples/text_9 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_1 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_2 SUCCESS
+../s21_cat -bbbbenst ../tests/samples/text_3 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_4 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_5 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_6 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_7 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_8 FAIL
+../s21_cat -bbbbenst ../tests/samples/text_9 FAIL
+../s21_cat -ajiods ../tests/samples/text_1 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_2 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_3 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_4 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_5 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_6 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_7 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_8 SUCCESS
+../s21_cat -ajiods ../tests/samples/text_9 SUCCESS
+../s21_cat -e -y ../tests/samples/text_1 SUCCESS
+../s21_cat -e -y ../tests/samples/text_2 SUCCESS
+../s21_cat -e -y ../tests/samples/text_3 SUCCESS
+../s21_cat -e -y ../tests/samples/text_4 SUCCESS
+../s21_cat -e -y ../tests/samples/text_5 SUCCESS
+../s21_cat -e -y ../tests/samples/text_6 SUCCESS
+../s21_cat -e -y ../tests/samples/text_7 SUCCESS
+../s21_cat -e -y ../tests/samples/text_8 SUCCESS
+../s21_cat -e -y ../tests/samples/text_9 SUCCESS

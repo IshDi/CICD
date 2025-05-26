@@ -1,0 +1,53 @@
+stages:
+  - build
+  - style
+  - test
+  - deploy
+
+build-job:
+  stage: build
+  script:
+    - cd src && make all
+  artifacts:
+    paths:
+      - src/s21_cat
+      - src/s21_grep
+    expire_in: 30 days
+  after_script:
+      - sh src/notifications.sh "build"
+
+codstyle-job:
+  stage: style
+  script:
+    - cp materials/linters/.clang-format src/.clang-format
+    - cd src/
+    - clang-format -n --style=Google *.c *.h 2>clang_info.txt
+    - if [ -s clang_info.txt ]; then
+    - cat clang_info.txt
+    - exit 1; fi
+  after_script:
+    - sh src/notifications.sh "style"
+
+test-job:
+  stage: test
+  script:
+    - echo "Test:"
+    - cd src
+    - code1=$(bash s21_cat_tests.sh)
+    - if [ "$code1" -ne 0 ]; then
+    - echo "TESTS FAILED (CAT)"; exit 1; fi
+    - code2=$(bash s21_grep_tests.sh)
+    - if [ "$code2" -ne 0 ]; then
+    - echo "TESTS FAILED (GREP)"; exit 1; fi
+  after_script:
+    - sh src/notifications.sh "test"
+
+deploy-job:
+   stage: deploy
+   script:
+    - cd src
+    - sudo chmod +x deploy.sh
+    - bash deploy.sh
+   when: manual
+   after_script:
+    - sh src/notifications.sh "deploy"
